@@ -42,3 +42,7 @@ scala project1.scala 40 24
 
 indicates that sequences of length 24 with start point between 1 and 40 contain 1,2,...,24 as a solution since 1^2 + 2^2 + ::: + 24^2 = 70^2. Actor modeling: In this project you have to use exclusively the actor facility in Scala (projects that do not use multiple actors or use any other form of parallelism will receive no credit). A model similar to the one indicated in class for the problem of adding up a lot of numbers can be used here, in particular dene worker actors that are given a range of problems to solve and a boss that keeps track of all the problems and perform the job assignment.
 
+
+note:
+------------
+you may find the description of project 2 ~ project 4 in Proj2.pdf, proj3.pdf, proj4.pdf in the root directory.
