@@ -1,9 +1,3 @@
-This is team-work assignment, team members include:
-Yuezhou Teng, UFID: 3676-2017
-Danjie Lu, UFID: 3231-1202
-
-Everything is working without bonus
- 
 The largest numbers that we ran with our code:
  
 Gossip
