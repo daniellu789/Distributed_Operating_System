@@ -1,6 +1,3 @@
-This is team©\work assignment, team members include:
-Yuezhou Teng, UFID: 3676-2017
-Danjie Lu, UFID: 3231©\1202
 -----------------------------------------------------------------------------------------------------------------
 What is working:
 Support creating a Log file tp record each message communication between nodes for each node within the project 1.
